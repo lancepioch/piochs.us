@@ -627,3 +627,15 @@ footer a {
 	background:url(../img/status.gif) no-repeat center center; 
 	min-height:400px;
 }
+
+
+
+@media only screen  and (min-device-width: 320px)  and (max-device-width: 480px) {
+	.section-title {
+		font-size: 3.5em;
+	}
+
+	.subline {
+		font-size: 0.9em;
+	}
+}
