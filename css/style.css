@@ -179,6 +179,9 @@ blockquote.caption-2:before {
 	font-size: 1.45em;
 	margin-top: 15px;
 }
+.date-container .day-time, .date-container .day-address {
+	text-transform: lowercase;
+}
 
 /*==== Callout ====*/
 
